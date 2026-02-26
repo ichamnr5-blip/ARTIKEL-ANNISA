@@ -1,0 +1,68 @@
+.libur-enhypen {
+    background-color: burlywood;
+    width: 500px;
+    height: 100px;
+
+}
+.by-who {
+    height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.first-enhypen{
+    text-align: justify;
+    text-spacing-trim: space-first;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+body {
+    background-color: aliceblue;
+}
+
+.duduk-puasa {
+    background-color: rgb(182, 240, 106);
+    width: 700px;
+    height: 100px;
+}
+
+.body-puasa {
+    background-color: bisque;
+}
+
+.zombi-dig {
+    background-color: tomato;
+     width: 500px;
+    height: 100px;
+}
+
+.body-zombi {
+    background-color: darkgrey;
+}
+
+.hts-putus{
+    background-color: rgb(185, 252, 61);
+     width: 700px;
+    height: 100px;
+}
+
+.body-hts{
+    background-color: rgb(243, 241, 126);
+}
+
+.body-pc  {
+    background-color: lightslategrey;
+}
+
+.pc-kpop {
+    background-color: rgb(163, 156, 226);
+     width: 700px;
+    height: 100px;
+}
+
+.header{
+    background-color: bisque;
+    height: 20px;
+}
+
+.article-category{
+    font-size: large;
+}
